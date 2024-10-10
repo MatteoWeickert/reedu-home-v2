@@ -133,5 +133,13 @@
     "tags": ["Ordnung", "Yoga"],
     "email": "r.federer@reedu.de",
     "photo": "/assets/img/team/ronja.jpg"
+  },
+  {
+    "name": "Matteo Weickert",
+    "position": "Bildung & Entwicklung",
+    "title": "Student (B. Sc. Geoinformatik);",
+    "tags": ["Workshops", "Bildungsmaterial", "Webentwicklung"],
+    "email": "m.weickert@reedu.de",
+    "photo": "/assets/img/team/ronja.jpg"
   }
 ]
